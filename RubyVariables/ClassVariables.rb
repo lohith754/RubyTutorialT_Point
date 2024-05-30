@@ -1,0 +1,1 @@
+# Class Variable name starts with @@sign
